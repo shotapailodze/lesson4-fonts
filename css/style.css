@@ -1,0 +1,28 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap');
+
+
+
+
+
+.font1 {
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+
+.font2 {
+    font-family: 'ALK LIFE';
+    font-weight: 500;
+}
+
+.font3 {
+    margin-bottom:30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-indent: 30px;
+    line-height: 50px;
+}
+
+.font4 {
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 2px;
+}
